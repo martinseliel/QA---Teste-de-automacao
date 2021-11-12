@@ -1,2 +1,2 @@
-# Teste-de-Automa-o-para-QA---CI-T
+# Teste-de-Automação - QA---CI-T
 Efetuar teste de automação usando linguagem gherkin
