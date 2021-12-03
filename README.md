@@ -1,29 +1,21 @@
 # Teste-de-Automação - QA---CI-T
-Efetuar teste de automação usando linguagem gherkin
+Efetuamos testes de automação usando linguagem gherkin e python!
+
+Primeiramente utilizamos a IDE Anaconda para executar os testes em conjunto com o navegador firefox,
+para o codigo executar é recomendado utilizar a mesma IDE e essencial o navegador firefox!
+
+Para o codigo poder funcionar, você precisa instalar no terminal de comando do seu computador o pip Selenium
+e adicionar a geckodriver na pasta .spyder-py3(se estiver utilizando o Spyder) para o teste poder funcionar corretamente!
 
 #Primeira parte
-Temos o seguinte cenário, escrito em Gherkin, que devemos automatizar:
-
-Funcionalidade: Busca no Banco de Questões
-Cenário: Busca por questão inexistente
-Dado que navego para a página de busca do banco de questões
-E digito 'Science: Computers' no campo de busca
-Quando clico no botão de buscar
-Então visualizo uma mensagem de erro com o texto 'No questions found.'
+Temos o seguinte cenário, escrito em Gherkin, que devemos automatizar e se encontra na pasta features em gherkin:
+E o codigo em python automatizado na pasta codigo, tendo o nome temp.py!
 
 # Segunda parte
-Agora, estamos com a seguinte informação de um novo cenário que temos que testar para o usuário final:
-
-Precisamos fazer uma busca na categoria por Science: Computers e verificar se a listagem de questões está com 25 itens e se o controle de paginação irá aparecer.
-
-Com essa informação em mãos, vamos para a codificação desse cenário de teste. Leve em consideração o que foi feito previamente e tente escrever o cenário em Gherkin antes de começar qualquer código.
+O segundo cenário foi descrito utilizando gherkin e se encontra na pasta features
+O codigo se encontra na pastinha codigo, tendo o nome parte2.py!
 
 # Terceira parte
-Por fim, você terá que criar um cenário novo que não foi descrito anteriormente. A ideia aqui é realmente ver como você faria um cenário do zero, criando o Gherkin e depois fazendo a automação dele. Abuse e use do que foi feito anteriormente para te ajudar!
+Por fim, o terceiro cenário se encontra na pasta features 
+O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
-# Considerações finais
-Aqui, finalizamos o teste! Espero que tenha conseguido fazer tudo com bastante carinho e atenção! Aguardamos pelo seu envio e, assim que fizermos a avaliação, iremos te dar um retorno com feedbacks a respeito.
-
-Esperamos também que tenha gostado e que tenha aprendido um pouco conosco!
-
-Até breve!
