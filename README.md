@@ -7,7 +7,7 @@ para o codigo executar é recomendado utilizar a mesma IDE e essencial o navegad
 Para o codigo poder funcionar, você precisa instalar no terminal de comando do seu computador o pip Selenium
 e adicionar a geckodriver na pasta .spyder-py3(se estiver utilizando o Spyder) para o teste poder funcionar corretamente!
 
-#Primeira parte
+# Primeira parte
 Temos o seguinte cenário, escrito em Gherkin, que devemos automatizar e se encontra na pasta features em gherkin:
 E o codigo em python automatizado na pasta codigo, tendo o nome temp.py!
 
