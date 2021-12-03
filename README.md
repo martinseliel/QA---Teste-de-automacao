@@ -1,7 +1,6 @@
 # Teste-de-Automação - QA---CI-T
 
 
-
 Efetuamos testes de automação usando linguagem gherkin e python!
 
 Primeiramente utilizamos a IDE Spyder para executar os testes em conjunto com o navegador firefox,
@@ -22,3 +21,15 @@ O codigo se encontra na pastinha codigo, tendo o nome parte2.py!
 Por fim, o terceiro cenário se encontra na pasta features 
 O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
+
+# Contributors
+
+| Nomes | RA |
+| :---------- |
+| Vitor Melo | 320140534 |
+| Joao Mattos | 320253410 |
+| Eliel Martins | 320231632 |
+| Arthur Brasil | 32017877 |
+| Damaris Dwayne | 320143900 | 
+| Josue Rosa | 320243792 |
+| Esther Rosa | 321120247 |
