@@ -1,5 +1,5 @@
 # Teste-de-Automação - QA---CI-T
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
 
 Efetuamos testes de automação usando linguagem gherkin e python!
 
