@@ -1,7 +1,7 @@
 # Teste-de-Automação - QA---CI-T
 Efetuamos testes de automação usando linguagem gherkin e python!
 
-Primeiramente utilizamos a IDE Anaconda para executar os testes em conjunto com o navegador firefox,
+Primeiramente utilizamos a IDE Spyder para executar os testes em conjunto com o navegador firefox,
 para o codigo executar é recomendado utilizar a mesma IDE e essencial o navegador firefox!
 
 Para o codigo poder funcionar, você precisa instalar no terminal de comando do seu computador o pip Selenium
