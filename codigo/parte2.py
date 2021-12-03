@@ -22,7 +22,6 @@ from time import sleep
 class Escuta(AbstractEventListener):
 
     def before_click(self, elemento, webdriver):
-        #print(f'elemento: {elemento.tag_name}')
         if elemento.tag_name == 'button':
             lista_ul = envolocro_browser.find_elements_by_tag_name('ul')
             assert len(lista_ul) > 1, 'Paginação não existe!'
