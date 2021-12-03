@@ -33,3 +33,8 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 | Damaris Dwayne | 320143900 | 
 | Josue Rosa | 320243792 |
 | Esther Rosa | 321120247 |
+
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
