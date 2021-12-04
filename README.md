@@ -19,6 +19,7 @@ O codigo se encontra na pastinha codigo, tendo o nome parte2.py!
 
 # Terceira parte
 Por fim, o terceiro cenário se encontra na pasta features 
+
 O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
 
@@ -26,7 +27,7 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
 |     Nomes      |    RA     |
 | :------------- | --------- |
-| Vitor Melo     | 320140534 |
+| Vitor Melo     | 320140534 | ![86443974](https://user-images.githubusercontent.com/91764249/144688533-64ac016c-84fa-4123-83f8-ded0527c2cb4.jpg)|
 | Joao Mattos    | 320253410 |
 | Eliel Martins  | 320231632 |
 | Arthur Brasil  | 32017877  |
