@@ -27,8 +27,8 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
 |     Nomes      |    RA     |
 | :------------- | --------- |
-| Vitor Melo     | 320140534 | ![86443974](https://user-images.githubusercontent.com/91764249/144688533-64ac016c-84fa-4123-83f8-ded0527c2cb4.jpg)|
-| Joao Mattos    | 320253410 |
+| Vitor Melo     | 320140534 | ![86443974](https://user-images.githubusercontent.com/91764249/144688533-64ac016c-84fa-4123-83f8-ded0527c2cb4.jpg) |
+| Joao Mattos    | 320253410 | ![69322109](https://user-images.githubusercontent.com/91764249/144688648-9c483bef-485b-42c2-be91-dee54ecd1d8a.jpg)
 | Eliel Martins  | 320231632 |
 | Arthur Brasil  | 32017877  |
 | Damaris Dwayne | 320143900 | 
