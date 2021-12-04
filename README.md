@@ -27,10 +27,10 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
 |         Nomes - RA         |    Group Members     |
 | :------------------------- | :------------------: |
-| Vitor Melo     - 320140534 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689706-c7fc1f86-af55-4f23-8d6b-1f2d0e976e30.jpg"> | 
-| Joao Mattos    - 320253410 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689805-f5281ca6-6035-41fb-8668-395d2d39af6a.jpg"> |
-| Eliel Martins  - 320231632 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144688817-1021210f-4330-4a83-ad0c-18f5f53b5601.jpg"> |
-| Arthur Brasil  - 32017877  | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689886-5192743f-969e-4915-92e1-b4636ca9369a.jpg"> |
-| Damaris Dwayne - 320143900 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689922-0de2bfa9-6421-4915-a5cf-690a7785e0fa.jpg"> | 
-| Josue Rosa     - 320243792 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689948-989e6ea3-af70-4694-8710-df73bb93b253.jpg"> |
-| Esther Rosa    - 321120247 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689977-216c92d8-d34c-44d0-b228-15e8c9115f05.jpg"> |
+| Vitor Melo     - 320140534 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689706-c7fc1f86-af55-4f23-8d6b-1f2d0e976e30.jpg" title="Vitoka" /> | 
+| Joao Mattos    - 320253410 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689805-f5281ca6-6035-41fb-8668-395d2d39af6a.jpg" title="Handsome boy" /> |
+| Eliel Martins  - 320231632 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144688817-1021210f-4330-4a83-ad0c-18f5f53b5601.jpg" title="Mestre dos Magos" /> |
+| Arthur Brasil  - 32017877  | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689886-5192743f-969e-4915-92e1-b4636ca9369a.jpg" title="Deu Brasil?" /> |
+| Damaris Dwayne - 320143900 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689922-0de2bfa9-6421-4915-a5cf-690a7785e0fa.jpg" title="Little Princess" /> | 
+| Josue Rosa     - 320243792 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689948-989e6ea3-af70-4694-8710-df73bb93b253.jpg" title="Biruta" /> |
+| Esther Rosa    - 321120247 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689977-216c92d8-d34c-44d0-b228-15e8c9115f05.jpg" title="Estrelinha" /> |
