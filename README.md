@@ -35,4 +35,4 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 | Josue Rosa     | 320243792 |
 | Esther Rosa    | 321120247 |
 
-![69322109](https://user-images.githubusercontent.com/91764249/144688817-1021210f-4330-4a83-ad0c-18f5f53b5601.jpg)
+<img align="center" width="200" height="200" src="![69322109](https://user-images.githubusercontent.com/91764249/144688817-1021210f-4330-4a83-ad0c-18f5f53b5601.jpg)i">
