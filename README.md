@@ -1,5 +1,22 @@
-# Teste-de-Automação - QA---CI-T
 
+<h1 align="center" style="color: #805ad5; font-weight: bold;">🚀 Teste-de-Automação - QA---CI-T 🚀</h1>
+
+<p align="center">
+ <a href="#descrição">Descrição</a> • 
+ <a href="#parte">Primeira Parte</a> • 
+ <a href="#parte">Segunda Parte </a> •
+</p>
+
+<p align="center">
+  <a href="#parte">Terceira Parte </a>
+  </p>
+  
+  <p align="center">
+  <a href="#Contributors">Contributors</a>
+  </p>
+
+
+<h2 id="descrição">Descrição </h2>
 
 Efetuamos testes de automação usando linguagem gherkin e python!
 
@@ -9,21 +26,26 @@ para o codigo executar é recomendado utilizar a mesma IDE e essencial o navegad
 Para o codigo poder funcionar, você precisa instalar no terminal de comando do seu computador o pip Selenium
 e adicionar a geckodriver na pasta .spyder-py3(se estiver utilizando o Spyder) para o teste poder funcionar corretamente!
 
-# Primeira parte
+<h2 id="parte">Primeira Parte </h2>
+
 Temos o seguinte cenário, escrito em Gherkin, que devemos automatizar e se encontra na pasta features em gherkin:
 E o codigo em python automatizado na pasta codigo, tendo o nome temp.py!
 
-# Segunda parte
+<h2 id="parte">Segunda Parte </h2>
+
 O segundo cenário foi descrito utilizando gherkin e se encontra na pasta features
 O codigo se encontra na pastinha codigo, tendo o nome parte2.py!
 
-# Terceira parte
+
+<h2 id="parte">Terceira parte </h2>
+
 Por fim, o terceiro cenário se encontra na pasta features 
 
 O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
 
-# Contributors
+<h2 id="Contributors">🌐 Contributor</h2>
+
 
 |         Nomes - RA         |    Group Members     |
 | :------------------------- | :------------------: |
@@ -34,3 +56,5 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 | Damaris Dwayne - 320143900 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689922-0de2bfa9-6421-4915-a5cf-690a7785e0fa.jpg" title="Little Princess" /> | 
 | Josue Rosa     - 320243792 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689948-989e6ea3-af70-4694-8710-df73bb93b253.jpg" title="Biruta" /> |
 | Esther Rosa    - 321120247 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689977-216c92d8-d34c-44d0-b228-15e8c9115f05.jpg" title="Estrelinha" /> |
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
