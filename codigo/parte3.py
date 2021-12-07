@@ -8,7 +8,7 @@ Created on Sat Nov 27 13:53:24 2021
 Funcionalidade: Tentar logar no site
 Cenário: Logar no site com dados de login não cadastrados
 Dado que navego para a página 'login' do site
-E digito 'falsiane' no campo 'Username'
+E digito 'caldeirao' no campo 'Username'
 E digito '1234' no campo 'Password'
 Quando clico no botão 'SIGN IN'
 Então verifico se será exibida a mensagem de erro 'ERROR! Login failed, incorrect username or password'
@@ -47,7 +47,7 @@ sleep(2)
 campo_username = envolocro_browser.find_element_by_id('username')
 campo_password = envolocro_browser.find_element_by_id('password')
 
-campo_username.send_keys('falsiane')
+campo_username.send_keys('Caldeirao')
 campo_password.send_keys('1234')
 sleep(2)
 botao_sign_in = envolocro_browser.find_element_by_tag_name('form').find_elements_by_tag_name('div')[1]
