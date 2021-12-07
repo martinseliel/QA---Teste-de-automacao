@@ -53,6 +53,6 @@ botao_search.click()
 tabela = envolocro_browser.find_element_by_tag_name('table')
 linhas_tabela = tabela.find_elements_by_tag_name('tr')
 del linhas_tabela[0]
-#print(linhas_tabela[0].text)
+
 
 assert len(linhas_tabela) == 25
