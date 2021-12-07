@@ -13,7 +13,11 @@
   
   <p align="center">
   <a href="#Contributors">Contributors</a>
-  </p>
+   </p>
+   
+   <p align="center">
+   <a href="#license">License</a>
+   </p>
 
 
 <h2 id="descrição">Descrição </h2>
@@ -58,3 +62,6 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 | Esther Rosa    - 321120247 | <img align="center" width="75" height="75" src="https://user-images.githubusercontent.com/91764249/144689977-216c92d8-d34c-44d0-b228-15e8c9115f05.jpg" title="Estrelinha" /> | 👉 <a href="https://www.linkedin.com/in/esthersouzarosa" target="_blank">  Esther Rosa  </a>  |
 
 
+<h2 id="license">License 📃 </h2>
+
+This project is under [MIT](LICENSE) license
