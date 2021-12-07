@@ -64,4 +64,4 @@ O codigo se encontra na pastinha codigo, tendo o nome parte3.py!
 
 <h2 id="license">📃License  </h2>
 
-Este projeto está em [MIT](LICENSE) license
+Este projeto está em license [MIT](LICENSE) 
